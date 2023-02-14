@@ -2,4 +2,4 @@
 
 I'm [Adam Stirtan](https://www.adamstirtan.com). I'm a software engineer, husband and dad. 👨‍👩‍👧‍👦
 
-By day, I build software. By night, I enjoy hacking on .NET things, Xbox and family time.
+Right now I'm working at @paper-co as a manager of software development. My teams are focused on math education and writing feedback and review. In my spare time I love being with my family, watching basketball, playing guitar, reading and going places I haven't been before. I write about all things on my blog at https://www.adamstirtan.com.
