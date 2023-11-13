@@ -1,6 +1,7 @@
 ### Hi, I'm [Adam](https://blog.adamstirtan.net) 👋 💻
 
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCK6NBCR7kEig-PGPuFoQNVQ?label=YouTube%20Views&style=for-the-badge)]([https://youtube.com/marcominerva](https://www.youtube.com/channel/UCK6NBCR7kEig-PGPuFoQNVQ))
+![Static Badge](https://img.shields.io/badge/articles_read-5k-purple?style=for-the-badge&link=https%3A%2F%2Fwww.c-sharpcorner.com%2Fmembers%2Fadam-stirtan3)
 [![GitHub followers](https://img.shields.io/github/followers/adamstirtan?label=GitHub%20Followers&style=for-the-badge)](https://github.com/adamstirtan)
 
 #### I'm a software engineer, YouTube content creator, husband, father and the world's okayest guitar player. I have written code you've used, I've been blogging for years and coding for many more.
