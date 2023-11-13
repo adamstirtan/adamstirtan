@@ -4,9 +4,9 @@
 [![Static Badge](https://img.shields.io/badge/articles_read-5.4k-yellow?style=for-the-badge)](https://www.c-sharpcorner.com/members/adam-stirtan3)
 [![GitHub followers](https://img.shields.io/github/followers/adamstirtan?label=GitHub%20Followers&style=for-the-badge)](https://github.com/adamstirtan)
 
-#### I'm a software engineer, YouTube content creator, husband, father and the world's okayest guitar player. I have written code you've used, I've been blogging for years and coding for many more.
+#### I'm a software engineer, husband, father and the world's okayest guitar player. I have written code you've used, I've been blogging for years and coding for many more.
 
-I have been using .NET since its first introduction. Today I proudly live in Burlington, Ontario, I work as a freelance consultant and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for desktop, mobile and web. I've worked as a software architect in FinTech, EdTech and logistics in engineering management and as an individual contributor. I'm a speaker at technical events and [I write](https://blog.adamstirtan.net) [articles about software development](https://www.c-sharpcorner.com/members/adam-stirtan3).
+I have been using .NET since its first introduction. Today I proudly live in Burlington, Ontario, I run a IT services company and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for desktop, mobile and web. I've worked as a software architect in FinTech, EdTech and logistics in engineering management and as an individual contributor. I'm a speaker at technical events and [I write](https://blog.adamstirtan.net) [articles about software development](https://www.c-sharpcorner.com/members/adam-stirtan3).
 
 ### Languages and tools
 
