@@ -6,7 +6,7 @@
 
 #### I'm a software engineer, husband, father and the world's okayest guitar player. I have written code you've used, I've been blogging for years and coding for many more.
 
-I have been using .NET since its first introduction. Today I proudly live in Burlington, Ontario, I run a IT services company and I am involved in designing and developing solutions for the Microsoft ecosystem, building applications for desktop, mobile and web. I've worked as a software architect in FinTech, EdTech and logistics in engineering management and as an individual contributor. I'm a speaker at technical events and [I write](https://blog.adamstirtan.net) [articles about software development](https://www.c-sharpcorner.com/members/adam-stirtan3).
+I have been using .NET since its first introduction. Today I proudly live in Burlington, Ontario, I started ClassZoo.ca, a school management app you'll love to use. I've worked as a software architect in FinTech, EdTech and logistics in engineering management and as an individual contributor. I'm a speaker at technical events and [I write](https://blog.adamstirtan.net) [articles about software development](https://www.c-sharpcorner.com/members/adam-stirtan3).
 
 ### Languages and tools
 
